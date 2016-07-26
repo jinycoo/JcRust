@@ -1,0 +1,6 @@
+[package]
+name = "jrust"
+version = "0.1.0"
+authors = ["jinycoo <jinycoo@126.com>"]
+
+[dependencies]
