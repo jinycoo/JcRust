@@ -1,3 +1,6 @@
+/**
+ * 折半查找
+ */
 pub fn binary_search(haystack: &[isize], needle:isize) -> isize {
     let mut low = 0;
     let mut high = haystack.len() as isize - 1;
